@@ -6,6 +6,7 @@
 
 
 
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
@@ -18,7 +19,7 @@
 
 点击此网址在线查看本项目视频：▶️▶️▶️ [http://www.jsxs1.cn](http://www.jsxs1.cn) ◀️◀️◀️
 
-**【总项目数2855套、2024年6-9月新款项目850套。联系人工🉑免费获取】**
+**【总项目数2855套、2024年6-9月新款项目850套。💥联系人工,可免费获取一套源码💥】**
 
 完整源码联系 **人工客服24小时** 全天在线 **【QQ 979748385 】** 回复 **项目编号+项目名称** 即可获取！！！
 
